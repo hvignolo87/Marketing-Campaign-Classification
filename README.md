@@ -57,3 +57,8 @@ It is important to mention that the detection of clients who are not going to be
 ## Metrics
 
 The performance measure used to qualify the works will be: *Expected Utility*.
+
+## Files description
+
+```classification.py```: here you'll find the notebook with the final problem solution.
+```optimization.py```: notebook used to tune XGBoost hyperparameters with Scikit-Learn.
