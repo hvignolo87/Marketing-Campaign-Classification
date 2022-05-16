@@ -56,4 +56,4 @@ It is important to mention that the detection of clients who are not going to be
 
 ## Metrics
 
-The performance measure used to qualify the works will be: Expected Utility.
+The performance measure used to qualify the works will be: *Expected Utility*.
