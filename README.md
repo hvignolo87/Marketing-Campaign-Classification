@@ -36,7 +36,7 @@ The data corresponds to contacts with clients made from May 2008 to June 2013 an
    - ```nr.employees```: Quarterly average of the number of active citizens (numeric)
 
 5. Output variable (target):
-   - ```y``` - has the client taken a term deposit? (binary: "yes","no")
+   - ```y``` - has the client taken a term deposit? (binary: "yes", "no")
 
 ## Cost-Profit Matrix
 The cost of a telemarketing call made in a call center is approximately EUR 55 (it is calculated through a budget of 2.970.000 generated for 18 operators per month with 3.000 calls each, that is, a total of 54.000 calls of 1 minute average).
