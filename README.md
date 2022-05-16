@@ -1,4 +1,4 @@
-# Marketing Campaing - Classification with Machine Learning
+# Marketing Campaign - Classification with Machine Learning
 
 ## Problem description
 This work records real data from telemarketing campaigns to sell time deposits carried out by a Portuguese retail bank. Within a campaign, the operators offer the products and/or services in two ways and at different times: making phone calls (outgoing) or taking advantage of a customer's call center call for any other reason (incoming). Therefore, the result is a binary result contact: success/positive (buys the product) or failure/negative (does not buy it).
