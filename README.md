@@ -60,5 +60,5 @@ The performance measure used to qualify the works will be: *Expected Utility*.
 
 ## Files description
 
-```classification.py```: here you'll find the notebook with the final problem solution.
-```optimization.py```: notebook used to tune XGBoost hyperparameters with Scikit-Learn.
+- ```classification.py```: here you'll find the notebook with the final problem solution.
+- ```optimization.py```: notebook used to tune XGBoost hyperparameters with Scikit-Learn.
